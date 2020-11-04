@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" class="ZC-Module-HTML">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0, user-scalable=0">
+    <link rel="icon" href="<%= BASE_URL %>logo.png">
+    <title>东信在线</title>
+    <script src="<%= BASE_URL %>rem.js"></script>
+</head>
+<!-- <script src="http://dxykf.caih.com/frame/js/entrance.js?sysNum=3677f2094abc4fada9b6e657de8b2cfc" id="zhichiScript" class="zhiCustomBtn" data-args="manual=true"></script> -->
+<style>
+    .ZCPanel_off {
+        z-index: 2000000;
+    }
+</style>
+
+<body class="ZC-Module-BODY">
+    <noscript>
+        <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled.
+            Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+</body>
+<!-- <script>
+    //方法内容
+    var zhiManager = (getzhiSDKInstance());
+    zhiManager.set("customBtn", "true"); //设置使用自定义按钮（true=自定义按钮，false=智齿默认按钮）
+    zhiManager.set("size", {
+        width: 360,
+        height: 520
+    }); //设置聊天页窗口大小
+    zhiManager.set("color", "CF0000"); //设置颜色
+    zhiManager.set("customMargin", 100);
+
+    //最后调用load方法
+    zhiManager.on("load", function() {
+        zhiManager.initBtnDOM();
+    });
+</script> -->
+
+</html>

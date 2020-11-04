@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="x" unicode="&#59198;" d="M286.165333 97.83466699999997L512 323.66933300000005l225.834667-225.834666 60.330666 60.330666L572.330667 384l225.834666 225.834667-60.330666 60.330666L512 444.330667 286.165333 670.165333 225.834667 609.8346670000001 451.669333 384l-225.834666-225.834667z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="shenglvehao" unicode="&#59144;" d="M221 304c-44.183 0-80 35.817-80 80s35.817 80 80 80 80-35.817 80-80-35.817-80-80-80z m291 0c-44.183 0-80 35.817-80 80s35.817 80 80 80 80-35.817 80-80-35.817-80-80-80z m291 0c-44.183 0-80 35.817-80 80s35.817 80 80 80 80-35.817 80-80-35.817-80-80-80z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
